@@ -1,0 +1,11 @@
+Library Management with Python
+
+● Books with stock maintained
+● Members
+● Transactions
+● Issue a book return from a member
+● Search for a book by name and author
+● Charge a rent fee on book returns
+● Make sure a member’s outstanding debt is not more than Rs.500
+● Insert book records.
+
